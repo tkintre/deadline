@@ -17,7 +17,6 @@ sharedvars.plr_stamina_jump_drain = 0
 sharedvars.plr_stamina_lean_drain = 0
 
 sharedvars.chat_tips_enabled = false
-sharedvars.sv_rainbow_tracers = true
 sharedvars.editor_compatibility_checks = false
 
 chat.send_announcement("67")
