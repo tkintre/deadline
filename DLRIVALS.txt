@@ -18,5 +18,7 @@ sharedvars.plr_stamina_lean_drain = 0
 
 sharedvars.chat_tips_enabled = false
 sharedvars.editor_compatibility_checks = false
+sharedvars.ac_movement = false
+sharedvars.ac_airtime_kill = false
 
 chat.send_announcement("67")
