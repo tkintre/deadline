@@ -1,26 +1,24 @@
-local s = sharedvars
+sharedvars.plr_jump_control_momentum = true
+sharedvars.ac_airtime_kill = false
+sharedvars.plr_explosion_damage_multiplier = 0
+sharedvars.plr_ergonomics_multiplier = 20000
+sharedvars.plr_fall_damage = false
+sharedvars.plr_jump_multiplier = 8
+sharedvars.sv_gravity = 30
+sharedvars.gm_time_to_capture = 1
+sharedvars.ff_field_voicelines = true
+sharedvars.plr_speed = 4
 
-s.plr_jump_control_momentum = true
-s.ac_airtime_kill = false
-s.plr_explosion_damage_multiplier = 0
-s.plr_ergonomics_multiplier = 20000
-s.plr_fall_damage = false
-s.plr_jump_multiplier = 8
-s.sv_gravity = 30
-s.gm_time_to_capture = 1
-s.ff_field_voicelines = true
-s.plr_speed = 4
+sharedvars.plr_stamina_shake_multiplier = 0
+sharedvars.plr_arm_stamina_drain = 0
+sharedvars.plr_arm_stamina_drain_hold_breath = 0
+sharedvars.plr_stamina_run_drain = 0
+sharedvars.plr_stamina_jump_drain = 0
+sharedvars.plr_stamina_lean_drain = 0
 
-s.plr_stamina_shake_multiplier = 0
-s.plr_arm_stamina_drain = 0
-s.plr_arm_stamina_drain_hold_breath = 0
-s.plr_stamina_run_drain = 0
-s.plr_stamina_jump_drain = 0
-s.plr_stamina_lean_drain = 0
-
-s.chat_tips_enabled = false
-s.sv_force_tracers = true
-s.sv_rainbow_tracers = true
-s.editor_compatibility_checks = false
+sharedvars.chat_tips_enabled = false
+sharedvars.sv_force_tracers = true
+sharedvars.sv_rainbow_tracers = true
+sharedvars.editor_compatibility_checks = false
 
 chat.send_announcement("67")
