@@ -21,6 +21,6 @@ s.plr_stamina_lean_drain = 0
 s.chat_tips_enabled = false
 s.sv_force_tracers = true
 s.sv_rainbow_tracers = true
-s.editor_compatibility_checks = true
+s.editor_compatibility_checks = false
 
 chat.send_announcement("67")
