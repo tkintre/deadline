@@ -10,3 +10,16 @@ s.sv_gravity = 30
 s.gm_time_to_capture = 1
 s.ff_field_voicelines = true
 s.plr_speed = 4
+
+s.plr_stamina_shake_multiplier = 0
+s.plr_arm_stamina_drain = 0
+s.plr_arm_stamina_drain_hold_breath = 0
+s.plr_stamina_run_drain = 0
+s.plr_stamina_jump_drain = 0
+s.plr_stamina_lean_drain = 0
+
+s.chat_tips_enabled = false
+s.sv_force_tracers = true
+s.sv_rainbow_tracers = true
+
+chat.send_announcement("67")
